@@ -10,7 +10,7 @@
   "files": [
     "index.js"
   ],
-  "devDependencies": {
+  "dependencies": {
     "@github/prettier-config": "^0.0.6",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "prettier": "^3.2.5"
