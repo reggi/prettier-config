@@ -1,7 +1,7 @@
 {
   "name": "@reggi/prettier-config",
   "description": "Prettier config that adds import sort to @github/prettier-config.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "prettier"
   ],
